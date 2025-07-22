@@ -1,2 +1,2 @@
 # Internet per Continent
-Run: Streamlit run Home_page.py
+Run: $ streamlit run Home_Page.py
