@@ -54,10 +54,7 @@ ax.set_title("API Internet per Income Data Scatterplot")
 st.pyplot(fig)
 
 # Explain Data
-st.markdown(""" This figure 
+st.markdown(""" This figure is a scatterplot on the Internet usage based on PCI(Income per Person).
 
-### Possible Reasons For This
-
-### Solutions
 
 """)
